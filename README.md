@@ -6,3 +6,8 @@ The KFUPM Reservation center is a software solution designed to streamline the r
 ![image](https://github.com/TheOnlyGoatFatima/SWE-readme-file/assets/146121461/c5d0c80c-2b03-48ea-bc91-ef766a8f9885)
 
 #### Getting Started
+To get started, it is important to download the entire Swe206-project files. This folder has all the necessary front and back end implementations.
+
+##### Prerequisites
+Download the file
+Open the file on intellij IDE
