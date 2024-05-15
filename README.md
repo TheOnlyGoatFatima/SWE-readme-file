@@ -5,9 +5,15 @@ The KFUPM Reservation center is a software solution designed to streamline the r
 ### Built With:
 ![image](https://github.com/TheOnlyGoatFatima/SWE-readme-file/assets/146121461/c5d0c80c-2b03-48ea-bc91-ef766a8f9885)
 
-#### Getting Started
+## Getting Started
 To get started, it is important to download the entire Swe206-project files. This folder has all the necessary front and back end implementations.
 
-##### Prerequisites
+### Prerequisites
 Download the file
 Open the file on intellij IDE
+
+### Run Application
+- Run (compile) the HelloApplication.java file on intellij to start the program
+  - This file is found in Swe206-project/src/main/java/com/example/reservationSystem
+  - All file paths are relative, therefore there is not need to change any file paths
+It is important that nothing in the original folder is changed, or else an error may occur.
