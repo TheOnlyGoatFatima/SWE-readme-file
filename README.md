@@ -6,3 +6,4 @@ The KFUPM Reservation center is a software solution designed to streamline the r
 ![image](https://github.com/TheOnlyGoatFatima/SWE-readme-file/assets/146121461/0ef14e84-87fc-4068-80b7-ccd8ed75e2a4)
 ![image](https://github.com/TheOnlyGoatFatima/SWE-readme-file/assets/146121461/241e6c8c-0d8f-4504-a9c5-152929e186a2)
 
+#### Getting Started
